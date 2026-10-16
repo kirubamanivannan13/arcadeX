@@ -1,0 +1,6 @@
+{
+  "name": "Arcade - Smart Xerox Management System",
+  "description": "Full-stack Smart Xerox Management System for Rajalakshmi Institute of Technology (RIT) digitizing document upload, print pricing, token generation, PDF receipts, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
